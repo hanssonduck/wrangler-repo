@@ -1,0 +1,11 @@
+{
+	"vars": {
+		"KEY_TEST": "kv-key"
+	},
+	"kv_namespaces": [
+		{
+			"id": "24dc5853-69fe-4539-aead-a08255e82288",
+			"binding": "KV_TEST"
+		}
+	]
+}
